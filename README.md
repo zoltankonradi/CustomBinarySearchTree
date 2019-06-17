@@ -1,2 +1,2 @@
-# enterprise-java-BST
-Binary Search Tree assignment
+# BTS
+My implementation of the Binary Search Tree.
